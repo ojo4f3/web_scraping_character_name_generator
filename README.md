@@ -1,7 +1,7 @@
 <h1 style="text-align:center">Character Name Generator</h1>
 CS361 Project Microservice, Summer 2023<br>
 By: Steven Colton Crowther<br>
-Version 1.0.0 (29 JUL 2023)
+Version 1.0.1 (19 JAN 2024)
 
 <h2>Description</h2>  
 Character name generator is a socket server that takes a client request and sends a reply. It is built for another program requesting names ideas for creating characters. 
